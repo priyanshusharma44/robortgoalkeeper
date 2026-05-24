@@ -1,4 +1,4 @@
-# 🥅 Robort Goalkeeper
+# 🥅 Robot Goalkeeper (robortgoalkeeper)
 
 An AI-powered **robot goalkeeper system** that tracks fast-moving balls using computer vision and commands a motorized keeper to dive left/right in real time.
 
